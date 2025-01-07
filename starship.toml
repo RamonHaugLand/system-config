@@ -1,5 +1,9 @@
 # ~/.config/starship.toml
 
+# requirements
+# install starship terminal
+# curl -sS https://starship.rs/install.sh | sh
+
 # Inserts a blank line between shell promts
 add_newline = true
 
